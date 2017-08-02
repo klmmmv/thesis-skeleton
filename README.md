@@ -1,7 +1,17 @@
+% author Michael Valentin Klammer
+% date today
+
 README
 ================================================================================
 
-Prerequisites:
+This is a project to write a scientific thesis. It specifically aims to help 
+students of the FH JOANNEUM University of applied Science, to write a thesis 
+which fulfills every formal aspect. 
+The writing itself of the thesis, is done in pure markdown (pandoc dialect).
+
+Prerequisites
+--------------------------------------------------------------------------------
+
 - install [pandoc](http://pandoc.org)
 - install latex with lualatex engine
 - on Unix-like platforms install the Calibri font: 
