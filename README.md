@@ -23,13 +23,12 @@ Prerequisites
 
 - install [pandoc](http://pandoc.org)
 - install latex with lualatex engine
-- on Unix-like platforms install the Calibri font: 
+- Unfortunately, only proprietary fonts are allowed for writing a thesis at the institute of Informationmanagement. On Unix-like platforms install the Calibri font
     ~~~bash
         wget http://plasmasturm.org/code/vistafonts-installer/vistafonts-installer
         chmod +x vistafonts-installer
         ./vistafonts-installer
     ~~~
-    Unfortunately, only proprietary fonts are allowed for writing a thesis at the institute of Informationmanagement.
 - download this repository and execute topdf
 
 Files
